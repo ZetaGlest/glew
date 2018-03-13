@@ -1,0 +1,7 @@
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/glewinfo.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/glew.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/visualinfo.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/PACKAGE.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/INSTALL.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/glew/CMakeFiles/ZERO_CHECK.dir

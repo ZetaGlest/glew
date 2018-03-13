@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\glew\CMakeFiles\d2bcc0057e002328b2e0a37b114e6074\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DF3D3744-D7B0-3D8D-983E-91458CEEE26F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
